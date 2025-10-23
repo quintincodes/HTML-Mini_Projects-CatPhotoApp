@@ -6,23 +6,23 @@ This is a simple cat page made with only HTML.
 
 ## Features
 
--   Images
--   Links
--   Lists
--   Forms
--   Input fields
--   Buttons
--   Radio buttons
--   Checkboxes
+- Images
+- Links
+- Lists
+- Forms
+- Input fields
+- Buttons
+- Radio buttons
+- Checkboxes
 
 ## Live Demo
 
-[CatPhotoApp](https://quintin-dev.github.io/HTML-Mini_Projects-CatPhotoApp/)
+[CatPhotoApp](https://quintincodes.github.io/HTML-Mini_Projects-CatPhotoApp/)
 
 ## Disclaimer
 
--   No responsive design
+- No responsive design
 
--   This project will not be updated or styled. It is a simple project to practice HTML.
+- This project will not be updated or styled. It is a simple project to practice HTML.
 
 Feel free to star or fork this project and style it as you wish.
